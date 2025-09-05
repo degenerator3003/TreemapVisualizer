@@ -29,12 +29,6 @@ Hover for details, click to zoom into folders, and exclude noisy paths/patterns 
 
 ---
 
-## Screenshots
-
-> (Add your screenshots here once you have them.)
-
----
-
 ## Requirements
 
 * **Python 3.10+**
