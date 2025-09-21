@@ -8,6 +8,9 @@ Hover for details, click to zoom into folders, and exclude noisy paths/patterns 
 > ✅ Works on Windows, macOS, Linux
 > ✅ No flashy colors—folders are subtly darker than files
 
+
+![Treemap Visualizer](assets/screenshots/Scr732.png)
+
 ---
 
 ## Features
